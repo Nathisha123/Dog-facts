@@ -1,0 +1,56 @@
+.container
+{
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image: url("https://images.unsplash.com/photo-1598875706250-21faaf804361?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8fA%3D%3D");
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 100vh;
+     border-radius: 10px;
+     
+}
+
+.card
+{
+    height: 300px;
+    width:300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 100px;
+    border-radius: 50px;
+    padding:5px;
+    
+    
+
+             
+    
+
+    
+}
+.card-header
+{
+    text-align: center;
+    background-image: radial-gradient(circle at center center, rgb(225, 137, 68),rgb(101, 40, 15));
+    width: 80%;
+    height:20px;
+    border-radius: 5px;
+    margin-left: 30px;
+    
+}
+
+.card-body
+{
+    text-align: center;
+    margin-top: 60px;
+   
+    
+   
+}
+
+.Heading
+{
+    text-align: center;
+    background-image: linear-gradient(112.5deg, rgb(199, 149, 37) 0%, rgb(199, 149, 37) 2%,rgb(202, 137, 37) 2%, rgb(202, 137, 37) 10%,rgb(205, 124, 37) 10%, rgb(205, 124, 37) 38%,rgb(208, 112, 37) 38%, rgb(208, 112, 37) 64%,rgb(210, 100, 36) 64%, rgb(210, 100, 36) 66%,rgb(213, 87, 36) 66%, rgb(213, 87, 36) 78%,rgb(216, 75, 36) 78%, rgb(216, 75, 36) 100%),linear-gradient(157.5deg, rgb(199, 149, 37) 0%, rgb(199, 149, 37) 2%,rgb(202, 137, 37) 2%, rgb(202, 137, 37) 10%,rgb(205, 124, 37) 10%, rgb(205, 124, 37) 38%,rgb(208, 112, 37) 38%, rgb(208, 112, 37) 64%,rgb(210, 100, 36) 64%, rgb(210, 100, 36) 66%,rgb(213, 87, 36) 66%, rgb(213, 87, 36) 78%,rgb(216, 75, 36) 78%, rgb(216, 75, 36) 100%),linear-gradient(67.5deg, rgb(199, 149, 37) 0%, rgb(199, 149, 37) 2%,rgb(202, 137, 37) 2%, rgb(202, 137, 37) 10%,rgb(205, 124, 37) 10%, rgb(205, 124, 37) 38%,rgb(208, 112, 37) 38%, rgb(208, 112, 37) 64%,rgb(210, 100, 36) 64%, rgb(210, 100, 36) 66%,rgb(213, 87, 36) 66%, rgb(213, 87, 36) 78%,rgb(216, 75, 36) 78%, rgb(216, 75, 36) 100%),linear-gradient(90deg, rgb(65, 48, 207),rgb(202, 204, 121)); background-blend-mode:overlay,overlay,overlay,normal;
+}
